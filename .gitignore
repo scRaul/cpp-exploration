@@ -1,0 +1,12 @@
+.vscode
+
+*.o
+*.out
+*.a
+*.so
+*.dll
+*.exe
+*.dylib
+
+.DS_Store
+Thumbs.db
